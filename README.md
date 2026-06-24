@@ -1,16 +1,18 @@
-# Excel Data Analysis Projects
+# 📊 Excel Data Analytics Portfolio
 
-Project Overviews:
+This repository showcases data analysis and dashboard projects built entirely in Microsoft Excel.
 
-In this projects, I performed end-to-end data analysis using Microsoft Excel, including Power Query, Data Modeling, Pivot Tables, and DAX.
+The projects demonstrate practical business analysis techniques including data cleaning, KPI development, dashboard design, sales analysis, customer insights, and executive reporting using Excel's analytical capabilities.
 
-The analysis focuses on e-commerce & sales data and answers key business questions such as revenue performance, top products, customer behavior, and more.
+## Skills Demonstrated
 
-Skills Practiced:
-
-    Power Query Editor
-    Data Modeling (Relationships)
-    Pivot Tables & Pivot Charts
-    DAX functions in Power Pivot
-    Dashboard Design
-    Correlation Analysis
+- Excel Dashboards
+- Pivot Tables & Pivot Charts
+- Data Cleaning & Transformation
+- KPI Development
+- Business Analysis
+- Lookup Functions (XLOOKUP, INDEX/MATCH)
+- Conditional Formatting
+- Data Visualization
+- Power Query
+- Executive Reporting
